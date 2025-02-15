@@ -3,16 +3,16 @@
 
 ## Hi there 👋  
 
-I'm **Ritik Kumar**, a **Full-Stack MERN Developer** passionate about crafting seamless, scalable, and user-friendly digital experiences. From intuitive UI/UX to backend logic, I specialize in **React.js, Node.js, Express.js, MongoDB, and Firebase** to build modern web applications.  
+I'm **Ritik Kumar**, a **Full-Stack MERN Developer** passionate about building **scalable, high-performance, and user-friendly** web applications. I specialize in **React.js, Node.js, Express.js, MongoDB, and Firebase** to create modern digital experiences.  
 
-Beyond coding, I'm the **founder of Lancway**, a freelance company specializing in **full-stack web and app development**. My goal is to **push the boundaries of design, performance, and user experience** while helping businesses and individuals bring their ideas to life.  
+I work at **Lancway**, a freelance company dedicated to **full-stack web and app development**, where I help businesses bring their ideas to life with **clean, efficient, and visually stunning** solutions. My goal is to push the boundaries of design and technology to deliver seamless user experiences.  
 
 ### 🚀 What I Do  
 - 💻 **Full-Stack Development** – MERN & Firebase-powered applications.  
 - 🎨 **Frontend Mastery** – Clean, interactive, and responsive UI/UX.  
 - 🔗 **Backend & Databases** – API development, authentication & data management.  
-- 🌐 **Freelancing @ Lancway** – Delivering top-notch web solutions.  
-- 📱 **Tech Enthusiast** – Exploring AI, cloud, and innovative tech solutions.  
+- 🚀 **Building @ Lancway** – Delivering top-notch web solutions.  
+- 📱 **Tech Enthusiast** – Exploring AI, cloud, and innovative technologies.  
 
 ### 🛠️ Tech Stack  
 - **Frontend:** React.js, JavaScript, HTML, CSS, Bootstrap  
@@ -21,9 +21,10 @@ Beyond coding, I'm the **founder of Lancway**, a freelance company specializing 
 - **Other Tools:** Git, GitHub, REST APIs, Firebase  
 
 ### 🌟 Projects  
-- **[Lancway](https://lancway.com/)** – A freelance platform for full-stack web & app development.  
+- **[Lancway](#)** – A freelance platform for full-stack web & app development.  
 - **[Vibra Energy](https://vibraenergy.co.uk/)** – Fully responsive energy solutions website.  
 - **[British Energy Helpline](https://www.britishenergyhelpline.org.uk/)** – Multi-functional site for UK government energy services.  
+- **Real-Time Emotion Detection** – AI-driven emotion recognition for marketing & mental health applications.  
 
 ### 📌 Let's Connect!  
 📧 **[ritikrk008@gmail.com](mailto:ritikrk008@gmail.com)**  
