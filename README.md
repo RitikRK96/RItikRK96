@@ -21,7 +21,7 @@ I work at **Lancway**, a freelance company dedicated to **full-stack web and app
 - **Other Tools:** Git, GitHub, REST APIs, Firebase  
 
 ### 🌟 Projects  
-- **[Lancway](#)** – A freelance platform for full-stack web & app development.  
+- **[Lancway](https://lancway.com/)** – A freelance platform for full-stack web & app development.  
 - **[Vibra Energy](https://vibraenergy.co.uk/)** – Fully responsive energy solutions website.  
 - **[British Energy Helpline](https://www.britishenergyhelpline.org.uk/)** – Multi-functional site for UK government energy services.  
 - **Real-Time Emotion Detection** – AI-driven emotion recognition for marketing & mental health applications.  
