@@ -99,20 +99,8 @@ Delivered end-to-end web apps with React, Node.js & Firebase. Clean code, fast p
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RitikRK96&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="Ritik's Trophies" />
-</p>
-
----
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RitikRK96&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Ritik's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitikRK96&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=RitikRK96&theme=tokyonight&hide_border=true" alt="Ritik's GitHub streak" />
