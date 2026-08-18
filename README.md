@@ -2,9 +2,13 @@
 <h3 align="center">Software Engineer | Data Analytics & AI @ Wipro</h3>
 
 <p align="center">
-  <a href="https://ritik.world/"><img src="https://img.shields.io/badge/Portfolio-ritik.world-blue?style=flat-square"/></a>
-  <a href="mailto:ritikrk008@gmail.com"><img src="https://img.shields.io/badge/Email-ritikrk008%40gmail.com-red?style=flat-square"/></a>
-  <a href="https://www.linkedin.com/in/ritikkumar08/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=2E9EF7&center=true&vCenter=true&width=680&lines=I+am+Ritik+Kumar;Building+intelligent+data+%26+AI+systems;Software+Engineer+%40+Wipro;Full-Stack+Developer" alt="typing" />
+</p>
+
+<p align="center">
+  <a href="https://ritik.world/"><img src="https://img.shields.io/badge/Portfolio-ritik.world-blue?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:ritikrk008@gmail.com"><img src="https://img.shields.io/badge/Email-ritikrk008%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ritikkumar08/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -21,6 +25,8 @@ Previously, I worked at **Lancway**, delivering end-to-end full-stack web soluti
 - 🔗 **Backend & Data Pipelines** — API design, data engineering & analytics workflows
 - 📱 **Always Learning** — Exploring GenAI, cloud, and emerging technologies
 
+🏆 **Highlights:** 50+ projects completed · 10+ key projects · 2+ years of experience
+
 ---
 
 ### 🛠️ Tech Stack
@@ -29,6 +35,10 @@ Previously, I worked at **Lancway**, delivering end-to-end full-stack web soluti
 |---|---|
 | **Web Development** | React.js, Node.js, JavaScript, TypeScript, Firebase, Tailwind CSS, Git |
 | **Data Analytics & AI** | Python, Databricks, Apache Spark, Power BI, Pandas, Scikit-learn, LangChain, Azure, Tableau, SQL |
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,js,ts,firebase,tailwind,git,python,azure,github,vscode&theme=dark" alt="skills" />
+</p>
 
 ---
 
@@ -77,10 +87,23 @@ Delivered end-to-end web apps with React, Node.js & Firebase. Clean code, fast p
 
 ---
 
+### 🐍 Contribution Snake
+
+![snake](https://raw.githubusercontent.com/RitikRK96/RitikRK96/output/github-contribution-grid-snake.svg)
+
+> This animated snake needs a one-time setup: add the [`platane/snk`](https://github.com/Platane/snk) GitHub Action to a `RitikRK96/RitikRK96` profile repo (workflow pushes the SVG to an `output` branch). Until that workflow exists, this image won't render — happy to walk you through the workflow file if you want it.
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RitikRK96" alt="Ritik's GitHub Streak" height="165"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RitikRK96&show_icons=true&theme=tokyonight&hide_border=true" alt="Ritik's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RitikRK96&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=RitikRK96&theme=tokyonight&hide_border=true" alt="Ritik's GitHub streak" />
 </p>
 
 ---
@@ -101,3 +124,7 @@ Delivered end-to-end web apps with React, Node.js & Firebase. Clean code, fast p
 <p align="center">📍 <b>Bengaluru, India</b> — open to remote opportunities</p>
 
 <p align="center"><i>Open to collaborations on impactful data, AI, and full-stack projects — let's connect.</i></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RitikRK96&style=for-the-badge&color=2E9EF7&label=PROFILE+VIEWS" alt="views" />
+</p>
